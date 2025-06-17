@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
       <h1>Nextflix</h1>
       {/* <NavBar/> */}
-      <Banner title="Clifford the red Dog" subTitle="A red dog who is a big softy" imageUrl="/static/clifford.webp"/>
+      <Banner title="Clifford the Big Red Dog" subTitle="A Very Good Dog" imageUrl="/static/clifford.webp"/>
       {/* <NetflixCards/> */}
     </>
   );
